@@ -77,7 +77,7 @@ Build a robust Blog Management API to perform CRUD operations and provide enhanc
 ```bash
 ### 1. Clone the Repository
 git clone https://github.com/nikilsth17/Blog-management.git
-cd task-management-api
+cd blog-management-api
 
 ### 2. Npm install
 npm install
